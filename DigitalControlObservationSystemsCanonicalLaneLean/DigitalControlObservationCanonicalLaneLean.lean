@@ -1,0 +1,9 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace DigitalControlObservationCanonicalLaneLean
+
+-- Root module, imports all domain-specific files
+
+end DigitalControlObservationCanonicalLaneLean
+end HautevilleHouse
